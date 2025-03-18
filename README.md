@@ -1,2 +1,3 @@
 # DEMO-REPO
-This is my First Git REPO
+HELLO WORLD
+This is my first Git REPO
